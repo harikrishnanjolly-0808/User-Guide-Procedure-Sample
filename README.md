@@ -14,7 +14,7 @@ This guide provides step-by-step instructions on how to log in to your Flipkart 
 1. Open your **Google Chrome** browser.
 2. Type `Flipkart` into the address bar or search field and press **Enter**.
 3. Verify that the [Flipkart Homepage](https://flipkart.com) opens successfully.
-4
+4. ![image alt](https://github.com/harikrishnanjolly-0808/User-Guide-Procedure-Sample/blob/822488006a252fc1431be1034174f9b9fb8c5d7e/Flipkart1.png)
 ---
 
 ### Step 2: Initialize the Login Process
